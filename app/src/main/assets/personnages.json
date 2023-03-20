@@ -1,0 +1,73 @@
+{
+  "personnages": [
+    {
+      "nom": "Luke Skywalker",
+      "description": "C'est un jeune garçon de ferme élevé par son oncle Owen et sa tante Beru sur la planète désertique Tatooine. Il possède une affinité particulière pour les machines et des grandes aptitudes pour le pilotage. Il n'a qu'un rêve, quitter la ferme familiale et partir à l'aventure.",
+      "wiki": "https://fr.wikipedia.org/wiki/Luke_Skywalker",
+      "photo": "luke_skywalker"
+    },
+
+    {
+      "nom": "Han Solo",
+      "description": "C'est un contrebandier travaillant pour le puissant trafiquant Jabba le Hutt. Lors d'un voyage de contrebande, il est arraisonné par un vaisseau impérial. Pour ne pas se faire arrêter, il expulse sa marchandise dans l'espace. Depuis lors, Jabba lui réclame un dédommagement pour avoir détruit cette marchandise.",
+      "wiki": "https://fr.wikipedia.org/wiki/Han_Solo",
+      "photo": "han_solo"
+    },
+
+    {
+      "nom": "Leia Organa",
+      "description": "Elle est la fille adoptive de Bail Organa, l'un des chefs de l'Alliance rebelle. Elle grandit sur la paisible planète d'Alderaan. Leia se lance très tôt dans la politique et rejoint secrètement les forces rebelles. Devenue la sénatrice de sa planète, elle profite de son immunité diplomatique pour fédérer les opposants à l'Empire.",
+      "wiki": "https://fr.wikipedia.org/wiki/Leia_Organa",
+      "photo": "leia_organa"
+    },
+
+    {
+      "nom": "Moff Tarkin",
+      "description": "Issu d'une puissante famille aristocrate, il choisit de suivre une carrière d'officier militaire. Ambitieux et sans scrupule, il est rapidement repéré par le futur empereur Palpatine qui favorise son ascension durant la Guerre des clones. Après la proclamation de l'Empire galactique, Tarkin est promu au grade militaire suprême de Grand Moff. Tarkin se voit alors confier le projet de superviser la construction d'une arme secrète, l'Étoile noire.",
+      "wiki": "https://fr.wikipedia.org/wiki/Wilhuff_Tarkin",
+      "photo": "moff_tarkin"
+    },
+
+    {
+      "nom": "Obi-Wan Kenobi",
+      "description": "Ce chevalier Jedi est l'ancien mentor et ami de Dark Vador. Après le changement de camp de ce dernier Obi-Wan se voit dans l'obligation de l'arrêter. Leur confrontation laisse Vador gravement blessé et handicapé. Après ce combat, Obi-Wan s'exile sur Tatooine où il surveille de près le fils de son ancien ami : Luke Skywalker.",
+      "wiki": "https://fr.wikipedia.org/wiki/Obi-Wan_Kenobi",
+      "photo": "obi_wan_kenobi"
+    },
+
+    {
+      "nom": "C-3PO",
+      "description": "C'est un droïde de protocole conçu pour les relations entre les humains et les autres droïdes. Il est le compagnon de toujours de R2-D2. Il appartient au capitaine du vaisseau qui achemine la princesse Leia lors de ses missions diplomatiques.",
+      "wiki": "https://fr.wikipedia.org/wiki/C-3PO",
+      "photo": "c3po"
+    },
+
+    {
+      "nom": "R2-D2",
+      "description": "C'est un droïde astromécano conçu pour la réparation et le pilotage automatique des vaisseaux spatiaux. Il appartient au même propriétaire que C-3PO. Il se voit confier par la princesse Leia, une mission d'une importance capitale.",
+      "wiki": "https://fr.wikipedia.org/wiki/R2-D2",
+      "photo": "r2d2"
+    },
+
+    {
+      "nom": "Chewbacca",
+      "description" : "Il est le copilote et le mécanicien du vaisseau de Han Solo. C'est un Wookiee de très grande taille. Obi-Wan Kenobi s'adresse à lui pour l'acheminer jusqu'à la planète Alderaan.",
+      "wiki": "https://fr.wikipedia.org/wiki/Chewbacca",
+      "photo": "chewbacca"
+    },
+
+    {
+      "nom" : "Dark Vador",
+      "description" : "Il est l'apprenti de l'empereur et son fidèle second. Ancien Jedi devenu Sith, son combat contre Obi-Wan Kenobi le laisse gravement blessé. Il ne survit par la suite que grâce à une armure noire robotisée. Il est chargé par l'empereur Palpatine de traquer et d'éliminer les rebelles.",
+      "wiki": "https://fr.wikipedia.org/wiki/Anakin_Skywalker",
+      "photo": "dark_vador"
+    },
+
+    {
+      "nom" : "Padmé Amidala",
+      "description" : "Reine puis sénatrice de la planète Naboo, elle tombe amoureuse du Jedi Anakin Skywalker. Elle succombe en donnant naissance aux jumeaux Luke et Leia.",
+      "wiki": "https://fr.wikipedia.org/wiki/Padm%C3%A9_Amidala",
+      "photo": "padme_amidala"
+    }
+  ]
+}
